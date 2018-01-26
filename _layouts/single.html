@@ -14,6 +14,10 @@ layout: default
   {% endunless %}
 {% endif %}
 
+{% if page.header.teaser %}
+  {% capture teaser %}{{ page.header.teaser }}{% endcapture %}
+{% endif %}
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -42,6 +46,15 @@ layout: default
             </nav>
           </aside>
         {% endif %}
+       
+        {% if page.header.teaser %}
+          <img src="{{ teaser }}" class="align-right recipe-teaser" alt="">
+        {% endif %}
+
+        {% if page.excerpt %}
+          <p class="recipe-excerpt">{{ page.excerpt | replace: '!SITE_URL!', site.baseurl | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+        {% endif %}
+
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
