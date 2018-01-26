@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "MooseFood"
+    url: /moosefood/
+
+  - title: "Recipes to Try"
+    url: /recipes-to-try/
+
+  - title: "Cuisines & Courses"
+    url: /tag-cloud/
