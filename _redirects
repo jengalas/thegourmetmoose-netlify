@@ -1,3 +1,5 @@
 # Redirect domain aliases to primary domain
 https://gourmetmoose.com/* https://thegourmetmoose.com/:splat 301!
+http://gourmetmoose.com/* https://thegourmetmoose.com/:splat 301!
 https://www.gourmetmoose.com/* https://thegourmetmoose.com/:splat 301!
+http://www.gourmetmoose.com/* https://thegourmetmoose.com/:splat 301!
