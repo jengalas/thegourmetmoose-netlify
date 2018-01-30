@@ -245,7 +245,9 @@
   .author__urls-wrapper,
   .nav__list,
   .sidebar,
-  .adsbygoogle {
+  .adsbygoogle,
+  .page__content img,
+  #main border {
     display: none !important;
     height: 1px !important;
   }
