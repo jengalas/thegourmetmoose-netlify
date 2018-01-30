@@ -32,6 +32,10 @@
     text-rendering: optimizeLegibility;
   }
 
+  #main {
+    border: none;
+  }
+
   h1,
   h2,
   h3,
@@ -246,8 +250,7 @@
   .nav__list,
   .sidebar,
   .adsbygoogle,
-  .page__content img,
-  #main border {
+  .page__content img {
     display: none !important;
     height: 1px !important;
   }
