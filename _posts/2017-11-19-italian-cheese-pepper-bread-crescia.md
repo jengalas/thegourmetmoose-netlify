@@ -13,7 +13,7 @@ header:
 
 ## INGREDIENTS
 * 8 ounces Locatelli cheese
-* 3¼ cups unbleached, all-purpose flour, plus ¼ cup additional flour for kneading, plus small amount bench flour
+* 3¼ cups (422 g) unbleached, all-purpose flour, plus ¼ cup (32 g) additional flour for kneading, plus small amount bench flour
 * 3 packets granulated active dry yeast, NOT rapid rise
 * 1 tablespoon sugar
 * ½ teaspoon salt
