@@ -2,8 +2,8 @@
 title: "Apricot Nougat with Eucalyptus Honey"
 categories: recipes-to-try
 tags: 
-  - lunch
-  - salad
+  - dessert
+  - Middle-Eastern
 excerpt: ""
 header:
   teaser: 
