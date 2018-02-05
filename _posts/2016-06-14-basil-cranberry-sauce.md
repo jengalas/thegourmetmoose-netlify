@@ -5,7 +5,7 @@ tags:
   - condiment
   - side-dish
   - American
-excerpt: 
+excerpt: ""
 header:
   teaser: /images/basil-cranberry-sauce-150x150.jpg
 ---
