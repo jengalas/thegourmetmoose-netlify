@@ -8,7 +8,7 @@ tags:
   - British
 excerpt: ""
 header:
-  teaser: 
+  teaser: /images/potato-chips-150x150.md
 ---
 
 ## INGREDIENTS
