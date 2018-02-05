@@ -6,7 +6,7 @@ tags:
   - bread
   - dessert
   - British
-excerpt: 
+excerpt: ""
 header:
   teaser: /images/lavender-scones-150x150.jpg
 ---
