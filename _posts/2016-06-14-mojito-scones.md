@@ -6,7 +6,7 @@ tags:
   - breakfast
   - dessert
   - British
-excerpt: 
+excerpt: ""
 header:
   teaser: /images/mojito-scones-150x150.jpg
 ---

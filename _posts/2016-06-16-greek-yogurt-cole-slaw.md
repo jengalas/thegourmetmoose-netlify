@@ -6,7 +6,7 @@ tags:
   - side-dish
   - Mediterranean
   - American
-excerpt: 
+excerpt: ""
 header:
   teaser: /images/greek-yogurt-coleslaw-150x150.jpg
 ---

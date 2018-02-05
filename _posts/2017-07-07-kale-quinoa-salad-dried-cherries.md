@@ -5,7 +5,7 @@ tags:
   - side-dish
   - salad
   - American
-excerpt: 
+excerpt: ""
 header:
   teaser: 
 ---

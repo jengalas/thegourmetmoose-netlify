@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - soup
   - Mediterranean
-excerpt: 
+excerpt: ""
 header:
   teaser: /images/kale-soup-150x150.jpg
 ---

@@ -3,7 +3,7 @@ title: "Pineapple Thumbprint Cookies"
 categories: recipes-to-try
 tags: 
   - dessert
-excerpt:
+excerpt: ""
 header:
   teaser: /images/pineapple-thumbprint-cookies-150x150.jpg
 ---

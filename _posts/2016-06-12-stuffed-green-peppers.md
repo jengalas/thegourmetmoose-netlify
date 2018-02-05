@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - entree
   - American
-excerpt:
+excerpt: ""
 header:
   teaser: /images/stuffed-green-peppers-150x150.jpg
 ---

@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - dessert
   - American
-excerpt:
+excerpt: ""
 header:
   teaser: /images/peach-cobbler-150x150.jpg
 ---

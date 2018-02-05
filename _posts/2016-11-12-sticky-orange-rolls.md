@@ -5,7 +5,7 @@ tags:
   - bread
   - breakfast
   - dessert
-excerpt: 
+excerpt: ""
 header:
   teaser:
 ---

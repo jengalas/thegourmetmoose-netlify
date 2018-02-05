@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - breakfast
   - American
-excerpt: 
+excerpt: ""
 header:
   teaser: /images/pancakes-150x150.jpg
 ---

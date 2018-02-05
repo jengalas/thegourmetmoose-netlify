@@ -5,7 +5,7 @@ tags:
   - bread
   - snack
   - American
-excerpt:
+excerpt: ""
 header:
   teaser: 
 ---

@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - entree
   - Mediterranean
-excerpt:
+excerpt: ""
 header:
   teaser: /images/roasted-chicken-150x150.jpg
 ---

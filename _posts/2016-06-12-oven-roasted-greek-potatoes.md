@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - side-dish
   - Mediterranean
-excerpt:
+excerpt: ""
 header:
   teaser: /images/roasted-greek-potatoes-150x150.jpg
 ---

@@ -6,7 +6,7 @@ tags:
   - side-dish
   - American
   - Thai
-excerpt: 
+excerpt: ""
 header:
   teaser:
 ---

@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - dessert
   - Eastern-European
-excerpt: 
+excerpt: ""
 header:
   teaser: 
 ---

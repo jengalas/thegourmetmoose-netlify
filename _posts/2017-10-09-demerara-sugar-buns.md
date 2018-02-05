@@ -4,7 +4,7 @@ categories: recipes-to-try
 tags: 
   - dessert
   - bread
-excerpt: 
+excerpt: ""
 header:
   teaser: 
 ---

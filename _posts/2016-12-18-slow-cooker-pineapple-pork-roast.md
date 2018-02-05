@@ -3,7 +3,7 @@ title: "Slow Cooker Pineapple Pork Roast"
 categories: recipes-to-try
 tags: 
   - entree
-excerpt:
+excerpt: ""
 header:
   teaser: 
 ---

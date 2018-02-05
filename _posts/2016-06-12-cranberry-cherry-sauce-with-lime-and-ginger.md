@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - side-dish
   - American
-excerpt:
+excerpt: ""
 header:
   teaser: /images/cranberry-sauce-150x150.jpg
 ---

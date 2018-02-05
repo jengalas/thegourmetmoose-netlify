@@ -5,7 +5,7 @@ tags:
   - dessert
   - breakfast
   - American
-excerpt:
+excerpt: ""
 header:
   teaser: /images/blueberry-buckle-150x150.jpg
 ---

@@ -5,7 +5,7 @@ tags:
   - entree
   - salad
   - American
-excerpt: 
+excerpt: ""
 header:
   teaser: 
 ---

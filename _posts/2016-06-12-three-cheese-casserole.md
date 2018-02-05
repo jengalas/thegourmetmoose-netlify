@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - entree
   - Italian
-excerpt:
+excerpt: ""
 header:
   teaser: 
 ---

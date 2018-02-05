@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - entree
   - Thai
-excerpt:
+excerpt: ""
 header:
   teaser: /images/shrimp-rice-150x150.jpg
 ---
