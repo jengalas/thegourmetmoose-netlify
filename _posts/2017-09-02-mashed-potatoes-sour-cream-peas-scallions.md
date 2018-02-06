@@ -6,7 +6,7 @@ tags:
   - American
 excerpt: ""
 header:
-  teaser: 
+  teaser: /images/mashed-potatoes-150x150.jpg
 ---
 
 ## INGREDIENTS

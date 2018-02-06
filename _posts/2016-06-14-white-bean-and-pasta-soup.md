@@ -6,7 +6,7 @@ tags:
   - Mediterranean
 excerpt: ""
 header:
-  teaser:
+  teaser: /images/white-bean-pasta-soup-150x150.jpg
 ---
 
 ## INGREDIENTS
