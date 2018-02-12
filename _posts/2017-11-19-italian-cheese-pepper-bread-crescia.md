@@ -7,7 +7,7 @@ tags:
   - Italian
 excerpt: "From [Kitchen Encounters](http://kitchenencounters.typepad.com/blog/2012/04/-italian-easter-bread-egg-cheese-crescia-.html). We made the bread the first time in two large loaf pans and baked for 30 minutes. May try a few minutes less next time."
 header:
-  teaser:
+  teaser: /images/crescia-150x150.jpg
   thumb:
 ---
 
