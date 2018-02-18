@@ -4,6 +4,7 @@ categories: moosefood
 tags: 
   - dessert
   - Eastern-European
+excerpt: ""
 header:
   teaser: /images/hungarian-delight-150x150.jpg
 ---
