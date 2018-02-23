@@ -3,6 +3,7 @@ title: "Lemon Cream Sauce For Chicken Fondue"
 categories: moosefood
 tags: 
   - condiment
+excerpt: ""
 header:
   teaser: 
 ---

@@ -4,6 +4,7 @@ categories: recipes-to-try
 tags: 
   - soup
   - American
+excerpt: ""
 header:
   teaser: /images/baked-potato-soup-150x150.jpg
 ---

@@ -4,6 +4,7 @@ categories: recipes-to-try
 tags: 
   - German
   - salad
+excerpt: ""
 header:
   teaser: 
 ---

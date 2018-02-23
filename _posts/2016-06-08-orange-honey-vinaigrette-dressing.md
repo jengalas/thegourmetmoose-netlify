@@ -4,6 +4,7 @@ categories: moosefood
 tags: 
   - salad
   - American
+excerpt: ""
 header:
   teaser: /images/orange-vinaigrette-150x150.jpg
 ---

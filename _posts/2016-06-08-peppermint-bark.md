@@ -4,6 +4,7 @@ categories: moosefood
 tags: 
   - dessert
   - American
+excerpt: ""
 header:
   teaser: /images/peppermint-bark-150x150.jpg
 ---

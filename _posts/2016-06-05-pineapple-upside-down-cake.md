@@ -4,6 +4,7 @@ categories: moosefood
 tags:
   - dessert
   - American
+excerpt: ""
 header:
   teaser: /images/pineapple-upside-down-cake-150x150.jpg
   thumb: /images/pineapple-upside-down-cake-150x150.jpg

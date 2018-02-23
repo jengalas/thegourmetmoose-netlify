@@ -4,6 +4,7 @@ categories: moosefood
 tags: 
   - Mediterranean
   - salad
+excerpt: ""
 header:
   teaser: /images/orzosalad-150x150.jpg
 ---

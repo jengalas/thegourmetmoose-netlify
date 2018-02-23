@@ -5,6 +5,7 @@ tags:
   - entree
   - condiment
   - American
+excerpt: ""
 header:
   teaser:
 ---
