@@ -4,7 +4,7 @@ categories: recipes-to-try
 tags: 
   - condiment
   - dessert
-excerpt: "Try these with [guava buttercream](!SITE_URL!/guava-buttercream/)! Makes 12 cupcakes or one 9x9-inch cake."
+excerpt: "Try these with [guava buttercream](!SITE_URL!/guava-buttercream-frosting/)! Makes 12 cupcakes or one 9x9-inch cake."
 header:
   teaser: 
 ---
