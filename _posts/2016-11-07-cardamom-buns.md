@@ -7,7 +7,7 @@ tags:
   - Swedish
 excerpt: ""
 header:
-  teaser:
+  teaser: /images/cardamom-buns-150x150.jpg
   thumb:
 ---
 
