@@ -30,4 +30,4 @@ header:
 3. Rinse green peppers and cut in half lengthwise, removing stems, seeds and ribs.
 4. In a large mixing bowl combine ground meats. Fold in egg, garlic, parsley, cooled white rice, ¼ can tomato sauce, Worcestershire sauce, 1 teaspoon salt, and ½ teaspoon black pepper. Combine all ingredients thoroughly.
 5. Fill each green pepper half equally with ground meat mixture. Place into a large baking pan. Pour crushed tomatoes, diced tomatoes and the remaining tomato sauce over the stuffed peppers and into the baking pan as well.
-6. Cover with aluminum foil and bake at 375°F for 50-60 minutes or until and internal temperature of 165-170°F is reached.
+6. Cover with aluminum foil and bake at 375°F for 50-60 minutes or until an internal temperature of 165-170°F is reached.
