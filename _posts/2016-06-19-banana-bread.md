@@ -23,4 +23,4 @@ header:
 ## INSTRUCTIONS
 1. Preheat oven to 350°F. Grease and flour one 9x5-inch loaf pan.
 2. Cream butter and sugar until smooth. Beat in eggs, then bananas. Add nuts if desired. Add flour and soda, stirring just until combined.
-3. Pour into prepared pan and bake at 350°F for about 1 hour (or till toothpick comes out clean). Remove from pan and let cool, store in refrigerator or freeze.
+3. Pour into prepared pan and bake at 350°F for about 50-60 minutes (or till toothpick comes out clean - test early). Remove from pan and let cool, store in refrigerator or freeze.
