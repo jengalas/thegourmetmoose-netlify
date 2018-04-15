@@ -6,6 +6,7 @@ tags:
   - side-dish
   - American
   - Thai
+  - picnic
 excerpt: ""
 header:
   teaser:

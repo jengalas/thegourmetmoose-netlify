@@ -4,6 +4,7 @@ categories: moosefood
 tags: 
   - Mediterranean
   - salad
+  - picnic
 excerpt: ""
 header:
   teaser: /images/orzosalad-150x150.jpg

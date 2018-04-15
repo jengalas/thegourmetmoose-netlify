@@ -4,6 +4,7 @@ categories: moosefood
 tags: 
   - salad
   - American
+  - picnic
 excerpt: "All measures are approximate and more or less of each ingredient can be used as desired. Cooked salmon fillet, canned tuna or diced chicken or turkey may be substituted for shrimp."
 header:
   teaser: /images/shrimp-salad-150x150.jpg

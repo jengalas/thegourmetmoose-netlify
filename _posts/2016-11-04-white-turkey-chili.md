@@ -5,6 +5,7 @@ tags:
   - entree 
   - American
   - Mexican
+  - picnic
 excerpt: ""
 header:
   teaser: /images/white-turkey-chili-150x150.jpg

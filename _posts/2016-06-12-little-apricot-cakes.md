@@ -4,6 +4,7 @@ categories: moosefood
 tags: 
   - dessert
   - American
+  - picnic
 excerpt: "These little cakes are a perfect picnic or trail snack. They are not very sweet, and the apricots add a bite of tartness. Also try plums, cherries, or berries."
 header:
   teaser: /images/little-apricot-cakes-150x150.jpg

@@ -5,6 +5,7 @@ tags:
   - side-dish
   - salad
   - American
+  - picnic
 excerpt: "This makes slightly more than 10 cups. Use a Hefty 10-cup round casserole foil pan measuring 9¼&Prime; diameter by 2¾&Prime; deep (packaging states it's for 3-quart recipes)."
 header:
   teaser: 

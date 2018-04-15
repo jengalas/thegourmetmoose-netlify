@@ -4,6 +4,7 @@ categories: moosefood
 tags: 
   - dessert
   - American
+  - picnic
 excerpt: Makes 24 mini-muffin sized cups!
 header:
   teaser: 
