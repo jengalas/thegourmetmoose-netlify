@@ -6,7 +6,7 @@ tags:
   - picnic
 excerpt: ""
 header:
-  teaser: 
+  teaser: /images/moms-baked-beans-150x150.jpg
 ---
 
 ## INGREDIENTS
