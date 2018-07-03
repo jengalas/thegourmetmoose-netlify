@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - dessert
   - picnic
-excerpt: "These are adapted from the Joy of Baking website. Everything from that site comes out perfectly for me!"
+excerpt: "These are adapted from the Joy of Baking website. Everything from that site comes out perfectly for me! I also want to try these with wild blueberry and sour cherry jam."
 header:
   teaser: 
 ---
@@ -16,7 +16,7 @@ header:
 * 205 grams (1 cup) light brown sugar
 * 1 large egg
 * 1 teaspoon pure vanilla extract
-* 165 grams (1¼ cups) all-purpose
+* 165 grams (1¼ cups) all-purpose flour
 * ½ teaspoon baking soda
 * ¼ teaspoon salt
 * 180 grams (2 cups) old fashioned rolled oats _divided_
