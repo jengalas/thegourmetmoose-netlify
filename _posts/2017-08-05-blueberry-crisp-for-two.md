@@ -4,9 +4,9 @@ categories: moosefood
 tags: 
   - dessert
   - American
-excerpt: "Fantastic with blueberries, plums, or peaches! (Or any combination thereof!)"
+excerpt: "Fantastic with blueberries, plums, red raspberries, or peaches! (Or any combination thereof!)"
 header:
-  teaser: 
+  teaser: /images/crisp-150x150.jpg
 ---
 
 ## INGREDIENTS
