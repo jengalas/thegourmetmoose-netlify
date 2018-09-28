@@ -6,7 +6,7 @@ tags:
   - American
 excerpt: ""
 header:
-  teaser: /images/.jpg
+  teaser: /images/sweetcorn-150x150.jpg
 ---
 
 ## INGREDIENTS
