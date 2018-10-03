@@ -6,7 +6,7 @@ tags:
   - Cuban
 excerpt: "Serve with [Crock-Pot Mojo Pork](!SITE_URL!/mojo-pork/)."
 header:
-  teaser: 
+  teaser: /images/cuban-black-beans-150x150.jpg
 ---
 
 ## INGREDIENTS
