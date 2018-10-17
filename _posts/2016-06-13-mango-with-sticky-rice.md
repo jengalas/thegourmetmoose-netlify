@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - dessert
   - Thai
-excerpt: "Not too sweet; these could easily pass for blueberry muffins. Rich loves the texture of the dough!"
+excerpt: "Slightly sweet coconut scented rice goes so well with the sweet-tart mango!"
 header:
   teaser: /images/mango-sticky-rice-150x150.jpg
 ---
