@@ -13,7 +13,7 @@ header:
 * 1½ pound baking potatoes
 * ¼ pound butter
 * 2 cups yellow onion _diced_
-* 1 large stalk celery _finely diced_
+* 1 large stalk celery _small dice_
 * ⅓ cup flour
 * 5 cups low-sodium chicken broth
 * 1 cup instant potato flakes
