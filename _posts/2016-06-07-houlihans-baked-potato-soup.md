@@ -1,6 +1,6 @@
 ---
 title: "Houlihan’s Baked Potato Soup"
-categories: recipes-to-try
+categories: moosefood
 tags: 
   - soup
   - American
