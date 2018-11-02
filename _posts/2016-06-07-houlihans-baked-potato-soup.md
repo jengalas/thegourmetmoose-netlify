@@ -10,7 +10,7 @@ header:
 ---
 
 ## INGREDIENTS
-* 1½ pound baking potatoes
+* 2 pounds baking potatoes _about 3 large potatoes_
 * ¼ pound butter
 * 2 cups yellow onion _diced_
 * 1 large stalk celery _small dice_
