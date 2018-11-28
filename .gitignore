@@ -12,3 +12,4 @@ example/_site
 node_modules
 npm-debug.log*
 Thumbs.db
+Gemfile.lock
