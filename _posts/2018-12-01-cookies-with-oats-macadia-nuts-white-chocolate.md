@@ -6,7 +6,7 @@ tags:
   - American
 excerpt: "Rich has been asking for some slightly soft & chewy, slightly oaty cookies with macadamia nuts and white chocolate chips. We purchased some chopped macadamia nuts and organic white chocolate chunks from Nuts.com, and then I started looking for a recipe. This recipe is based on the [Oatmeal Cookie](https://www.joyofbaking.com/OatmealCookies.html) recipe at JoyofBaking.com. I halved the original recipe, added a little less oats and a little more flour, and skipped the cinnamon and dried fruit. I used seagrape honey, but that's very hard to find outside of Florida—any dark, caramelly honey should work well. These were a hit!"
 header:
-  teaser: 
+  teaser: /images/oat-cookies-nuts-150x150.jpg
 ---
 
 ## INGREDIENTS
