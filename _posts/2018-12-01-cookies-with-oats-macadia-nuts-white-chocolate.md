@@ -11,7 +11,7 @@ header:
 
 ## INGREDIENTS
 * 85 grams unsalted butter
-* 100 grams light brown sugar _firmly packed_
+* 85 grams light brown sugar _firmly packed_
 * ½ egg (about 25-30 grams) _at room temperature_
 * 1½ teaspoons honey
 * ½ teaspoon pure vanilla extract
