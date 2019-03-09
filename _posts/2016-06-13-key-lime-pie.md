@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - dessert
   - American
-excerpt: "Authentic, tart & sweet, delicious! I use the zest of one lime (without measuring; it's usually just over 1 tablespoon), then juice that lime and add to it enough key lime juice to make the ¾ cup."
+excerpt: "Authentic, tart & sweet, delicious! I use the zest of one lime (without measuring; it's usually just over 1 tablespoon), then juice that lime and add to it enough key lime juice to make the ¾ cup. Do not attempt to cover with foil or plastic wrap for chilling! Save the plastic lid from the pie crust, and cover the pie with it for chilling."
 header:
   teaser: /images/key-lime-pie-150x150.jpg
 ---
