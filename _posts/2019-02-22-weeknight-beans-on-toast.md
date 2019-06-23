@@ -6,6 +6,7 @@ tags:
   - side dish
   - American
   - Italian
+  - picnic
 excerpt: ""
 header:
   teaser: /images/weeknight-beans-on-toast-150x150.jpg

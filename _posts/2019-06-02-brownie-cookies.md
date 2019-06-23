@@ -4,6 +4,7 @@ categories: moosefood
 tags: 
   - dessert
   - American
+  - picnic
 excerpt: "From joyofbaking.com. These cookies are so soft and chewy and taste just like a brownie. They stay fresh for days, too. Makes about 24 cookies."
 header:
   teaser: 
