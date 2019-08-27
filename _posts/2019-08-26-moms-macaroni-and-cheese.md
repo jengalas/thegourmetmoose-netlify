@@ -1,5 +1,5 @@
 ---
-title: "Mom's ("Baltimore Church Ladies') Macaroni and Cheese"
+title: "Mom's ('Baltimore Church Ladies') Macaroni and Cheese"
 categories: moosefood
 tags: 
   - entree
