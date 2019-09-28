@@ -13,3 +13,4 @@ node_modules
 npm-debug.log*
 Thumbs.db
 Gemfile.lock
+Gemfile.lock
