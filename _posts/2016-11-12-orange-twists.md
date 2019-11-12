@@ -5,7 +5,7 @@ tags:
   - bread
   - breakfast
   - dessert
-excerpt: "These are fantastic made with salted Kerrygold Irish butter! It works to make up the full recipe of sweet dough but use only half at a time, refrigerating the other portion for a few days. If using half the dough, roll out to an 18x9-inch rectangle and cut into 9 rolls. Also works well with a nut filling: grind 4 ounces of nuts and add to ¼ cup sugar."
+excerpt: "These are fantastic made with salted Kerrygold Irish butter! It works to make up the full recipe of sweet dough but use only half at a time, refrigerating the other portion for a few days. If using half the dough, roll out to an 18x9-inch rectangle and cut into 9 rolls. Also works well with a nut filling: grind 4 ounces of nuts and add to ¼ cup sugar. Half of the dough also works perfectly with the King Arthur Flour bun pan. Roll into a 16x8-inch rectangle, add filling, roll, and cut into 6 slices. Let rise 45-60 minutes, and brush with egg wash. Bake at 375°F for about 18 minutes, tenting with foil if browning too quickly."
 header:
   teaser: /images/orange-twists-150x150.jpg
 ---
