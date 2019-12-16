@@ -11,7 +11,7 @@ header:
 ---
 
 ## INGREDIENTS
-* 1 tablespoon yeast
+* 1 tablespoon instant yeast
 * 2 tablespoons warm water
 * 1½ teaspoons honey
 * 260 grams all-purpose flour
@@ -26,5 +26,5 @@ header:
 4. Add the milk to the yeast mixture and stir, followed by about one cup of the flour mixture. Blend well.
 5. Add the remaining flour and beat to bring all the ingredients together. The dough should be very soft and "goopy."
 6. Spoon about 95 grams of batter into each well of the bun pan.
-7. Let rise in a warm place for about 3-45 minutes, until the batter just reaches the top of the wells. Preheat oven to 400°F. (For me, in an oven with the light on, I give it about 30 minutes, then remove and let continue to rise on the counter for another 10 minutes while the oven heats.)
+7. Let rise in a warm place for about 30-45 minutes, until the batter just reaches the top of the wells. Preheat oven to 400°F. (For me, in an oven with the light on, I give it about 30 minutes, then remove and let continue to rise on the counter for another 10 minutes while the oven heats.)
 8. Bake for about 10 minutes. Cool before slicing and toasting.
