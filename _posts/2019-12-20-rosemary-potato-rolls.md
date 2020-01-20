@@ -10,7 +10,7 @@ header:
 ---
 
 ## INGREDIENTS
-* 1¼ cups (183g) [189g] warm water
+* 1¼ cups (283g) [189g] warm water
 * 2 teaspoons [1½ teaspoons] instant yeast
 * 2 tablespoons [4 teaspoons] (25g) olive oil
 * 3 cups (361g) [240g] all-purpose flour
