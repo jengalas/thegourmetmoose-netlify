@@ -4,7 +4,7 @@ categories: moosefood
 tags:
   - entree
   - American
-excerpt: "This always comes out well for us. In 2018 we had a 5.75 lb. fresh turkey breast. With the oven rack in the lowest spot, we roasted the breast at 450°F for 15 minutes, then added the glaze. Then we turned the temperature down tp 325°F and roasted for another 30 minutes, then glaze. We did two more cycles of 30 minute roast and glaze, and the turkey tested done after a total of 1 hour 15 minutes. (We put the turkey in around 1:50pm and it came out at 3:47pm. Extra time was for the glazing.)"
+excerpt: "This always comes out well for us. In 2018 we had a 5.75 lb. fresh turkey breast. With the oven rack in the lowest spot, we roasted the breast at 450°F for 15 minutes, then added the glaze. Then we turned the temperature down to 325°F and roasted for another 30 minutes, then glaze. We did two more cycles of 30 minute roast and glaze, and the turkey tested done after a total of 1 hour 15 minutes. (We put the turkey in around 1:50pm and it came out at 3:47pm. Extra time was for the glazing.) In 2019 we had two 3-pound split turkey breasts. Roasted at 450°F for 10 minutes, then glazed, and turned temperature down to 350°F. We then roasted for 6 more cycles of 15 minutes followed by glazing."
 header:
   teaser:
   thumb:
