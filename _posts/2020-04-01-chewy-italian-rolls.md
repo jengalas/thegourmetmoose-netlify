@@ -14,7 +14,7 @@ header:
 ## INGREDIENTS
 
 ### Starter
-* 118g all-purpose flour
+* 118g all-purpose flour or French-style flour
 * 19g white whole wheat flour
 * 151g water
 * scant ⅛ teaspoon instant yeast
