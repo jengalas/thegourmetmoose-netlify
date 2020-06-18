@@ -18,8 +18,8 @@ layout: default
   {% capture teaser %}{{ page.header.teaser }}{% endcapture %}
 {% endif %}
 
-{% if page.header.image2 %}
-  {% capture image2 %}{{ page.header.image2 }}{% endcapture %}
+{% if page.header.imagefeature %}
+  {% capture imagefeature %}{{ page.header.imagefeature }}{% endcapture %}
 {% endif %}
 
 <div id="main" role="main">
@@ -55,8 +55,8 @@ layout: default
           <img src="{{ teaser }}" class="align-right recipe-teaser" alt="">
         {% endif %}
 
-        {% if page.header.image2 %}
-          <img src="{{ image2 }}" class="align-right recipe-image2" alt="">
+        {% if page.header.imagefeature %}
+          <img src="{{ imagefeature }}" class="align-right recipe-imagefeature" alt="">
         {% endif %}
 
         {% if page.excerpt %}
