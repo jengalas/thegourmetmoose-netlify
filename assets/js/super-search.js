@@ -119,12 +119,12 @@ MIT Licensed
 		}
 		xmlhttp.send();
 
-		// Toggle on ESC key
-		window.addEventListener('keyup', function onKeyPress(e) {
-			if (e.which === 27) {
-				toggleSearch();
-			}
-		});
+		// Toggle on ESC key - removed 6/18/20 JKG to prevent conflict with Esc used to close images
+		// window.addEventListener('keyup', function onKeyPress(e) {
+		// 	if (e.which === 27) {
+		// 		toggleSearch();
+		// 	}
+		// });
 		// Open on '/' key
 		window.addEventListener('keypress', function onKeyPress(e) {
 			if (e.which === 47 && !searchEl.classList.contains('is-active')) {
