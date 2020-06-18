@@ -14,8 +14,8 @@ layout: default
   {% endunless %}
 {% endif %}
 
-{% if page.header.image %}
-  {% capture image %}{{ page.header.image }}{% endcapture %}
+{% if page.header.image2 %}
+  {% capture image2 %}{{ page.header.image2 }}{% endcapture %}
 {% endif %}
 
 <div id="main" role="main">
@@ -52,7 +52,7 @@ layout: default
         {% endif %}
 
         {% if page.header.image %}
-          <img src="{{ image }}" class="align-right recipe-image" alt="">
+          <img src="{{ image2 }}" class="align-right recipe-image2" alt="">
         {% endif %}
 
         {% if page.excerpt %}
