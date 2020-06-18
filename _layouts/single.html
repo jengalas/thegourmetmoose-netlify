@@ -14,6 +14,10 @@ layout: default
   {% endunless %}
 {% endif %}
 
+{% if page.header.teaser %}
+  {% capture teaser %}{{ page.header.teaser }}{% endcapture %}
+{% endif %}
+
 {% if page.header.image2 %}
   {% capture image2 %}{{ page.header.image2 }}{% endcapture %}
 {% endif %}
