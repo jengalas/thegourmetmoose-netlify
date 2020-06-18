@@ -54,13 +54,12 @@ layout: default
             </nav>
           </aside>
         {% endif %}
-       
-        {% if page.header.teaser %}
-          <img src="{{ teaser }}" class="align-right recipe-teaser" alt="">
-        {% endif %}
+               
 
         {% if page.header.imagefeature %}
           <a href="{{ fullimage }}"><img src="{{ imagefeature }}" class="align-right recipe-imagefeature" alt=""></a>
+        {% elsif page.header.teaser %}
+          <img src="{{ teaser }}" class="align-right recipe-teaser" alt="">
         {% endif %}
 
         {% if page.excerpt %}
