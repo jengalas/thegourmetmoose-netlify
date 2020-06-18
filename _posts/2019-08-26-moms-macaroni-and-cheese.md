@@ -8,7 +8,7 @@ tags:
 excerpt: ""
 header:
   teaser:
-  image2: /images/moms-mac-and-cheese-200x150.jpg
+  imagefeature: /images/moms-mac-and-cheese-200x150.jpg
 ---
 
 ## INGREDIENTS
