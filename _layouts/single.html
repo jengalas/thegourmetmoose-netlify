@@ -22,6 +22,10 @@ layout: default
   {% capture imagefeature %}{{ page.header.imagefeature }}{% endcapture %}
 {% endif %}
 
+{% if page.header.fullimage %}
+  {% capture fullimage %}{{ page.header.fullimage }}{% endcapture %}
+{% endif %}
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -56,7 +60,7 @@ layout: default
         {% endif %}
 
         {% if page.header.imagefeature %}
-          <img src="{{ imagefeature }}" class="align-right recipe-imagefeature" alt="">
+          <a href="{{ fullimage }}"><img src="{{ imagefeature }}" class="align-right recipe-imagefeature" alt=""></a>
         {% endif %}
 
         {% if page.excerpt %}
