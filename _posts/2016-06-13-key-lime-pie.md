@@ -6,7 +6,9 @@ tags:
   - American
 excerpt: "Authentic, tart & sweet, delicious! I use the zest of one lime (without measuring; it's usually just over 1 tablespoon), then juice that lime and add to it enough key lime juice to make the ¾ cup. Do not attempt to cover with foil or plastic wrap for chilling! Save the plastic lid from the pie crust, and cover the pie with it for chilling."
 header:
-  teaser: /images/key-lime-pie-150x150.jpg
+  teaser: /images/mooses-key-lime-pie-150x150.jpg
+  imagefeature: /images/mooses-key-lime-pie-200x150.jpg
+  fullimage: /images/mooses-key-lime-pie-1077x810.jpg
 ---
 
 ## INGREDIENTS
