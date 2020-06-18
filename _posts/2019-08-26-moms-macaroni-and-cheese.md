@@ -8,7 +8,7 @@ tags:
 excerpt: ""
 header:
   teaser:
-  image2: /images/english-muffin-buns-150x150.jpg
+  image2: /images/moms-mac-and-cheese-200x150.jpg
 ---
 
 ## INGREDIENTS
