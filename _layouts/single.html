@@ -57,7 +57,7 @@ layout: default
                
 
         {% if page.header.imagefeature %}
-          <a href="{{ fullimage }}" title="{{page.title}}"><img src="{{ imagefeature }}" class="align-right recipe-imagefeature" alt=""></a>
+          <a href="{{ fullimage }}" title="{{page.title}}"><img src="{{ imagefeature }}" title="{{page.title}}" class="align-right recipe-imagefeature" alt=""></a>
         {% elsif page.header.teaser %}
           <img src="{{ teaser }}" class="align-right recipe-teaser" alt="">
         {% endif %}
