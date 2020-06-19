@@ -8,6 +8,8 @@ tags:
 excerpt: "From joyofbaking.com. These cookies are so soft and chewy and taste just like a brownie. They stay fresh for days, too. Makes about 24 cookies."
 header:
   teaser: /images/brownie-cookies-150x150.jpg
+  imagefeature: /images/brownie-cookies-200x150.jpg
+  fullimage: /images/brownie-cookies-1077x810.jpg
 ---
 
 ## INGREDIENTS
