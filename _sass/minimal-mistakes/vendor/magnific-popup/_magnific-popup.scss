@@ -519,6 +519,8 @@ button {
     color: $mfp-caption-title-color;
     word-wrap: break-word;
     padding-right: 36px; // leave some space for counter at right side
+    padding-top: 1em;
+    font-size: 2em;
   }
 
   .mfp-image-holder {
