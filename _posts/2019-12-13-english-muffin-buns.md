@@ -8,6 +8,8 @@ tags:
 excerpt: "This recipe is based on one for English Muffin Bread from [Restless Chipotle](https://www.restlesschipotle.com/english-muffin-bread/). I use the King Arthur bun pan to make these English muffin or crumpet-like buns. They are very moist with an open crumb. This batter can also be made into a loaf by scraping the batter into a buttered loaf pan, letting rise 30-45 minutes, and baking 15-20 minutes at 425°F."
 header:
   teaser: /images/english-muffin-buns-150x150.jpg
+  imagefeature: /images/english-muffin-buns-200x150.jpg
+  fullimage: /images/english-muffin-buns-1077x810.jpg
 ---
 
 ## INGREDIENTS
