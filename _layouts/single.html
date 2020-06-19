@@ -14,6 +14,10 @@ layout: default
   {% endunless %}
 {% endif %}
 
+{% if page.header.title %}
+  {% capture title %}{{ page.header.title }}{% endcapture %}
+{% endif %}
+
 {% if page.header.teaser %}
   {% capture teaser %}{{ page.header.teaser }}{% endcapture %}
 {% endif %}
@@ -57,7 +61,7 @@ layout: default
                
 
         {% if page.header.imagefeature %}
-          <a href="{{ fullimage }}"><img src="{{ imagefeature }}" class="align-right recipe-imagefeature" alt=""></a>
+          <a href="{{ fullimage }}" title="{{ title }}"><img src="{{ imagefeature }}" class="align-right recipe-imagefeature" alt=""></a>
         {% elsif page.header.teaser %}
           <img src="{{ teaser }}" class="align-right recipe-teaser" alt="">
         {% endif %}
