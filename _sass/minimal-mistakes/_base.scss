@@ -145,6 +145,10 @@ button:focus {
   @extend %tab-focus;
 }
 
+button.mfp-close:focus {
+  outline: none;
+}
+
 /* code */
 
 tt,
