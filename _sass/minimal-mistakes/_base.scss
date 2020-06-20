@@ -262,6 +262,10 @@ figure {
   }
 }
 
+figure+figure {
+  margin-bottom: 0;
+}
+
 /* Figure captions */
 
 figcaption {
