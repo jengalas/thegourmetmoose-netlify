@@ -13,28 +13,28 @@ header:
 gallery:
   - url: /images/english-muffin-buns2-1077x810.jpg
     image_path: /images/english-muffin-buns2-320x240.jpg
-    alt: ""
-    title: ""
+    alt: "Batter is ready to go into the oven"
+    title: "Batter is ready to go into the oven"
   - url: /images/english-muffin-buns3-1077x810.jpg
     image_path: /images/english-muffin-buns3-320x240.jpg
-    alt: ""
-    title: ""
+    alt: "They will be light golden brown when done"
+    title: "They will be light golden brown when done"
   - url: /images/english-muffin-buns4-1077x810.jpg
     image_path: /images/english-muffin-buns4-320x240.jpg
-    alt: ""
-    title: ""
+    alt: "The buns are light and puffy!"
+    title: "The buns are light and puffy!"
   - url: /images/english-muffin-buns5-1077x810.jpg
     image_path: /images/english-muffin-buns5-320x240.jpg
-    alt: ""
-    title: ""
+    alt: "The crust is lightly crisp."
+    title: "The crust is lightly crisp."
   - url: /images/english-muffin-buns6-1077x810.jpg
     image_path: /images/english-muffin-buns6-320x240.jpg
-    alt: ""
-    title: ""
-  - url: /images/english-muffin-buns2-1077x810.jpg
-    image_path: /images/english-muffin-buns2-320x240.jpg
-    alt: ""
-    title: ""
+    alt: "They'll sink a bit and gain some texture as they cool."
+    title: "They'll sink a bit and gain some texture as they cool."
+  - url: /images/english-muffin-buns-1077x810.jpg
+    image_path: /images/english-muffin-buns-320x240.jpg
+    alt: "The interior is full of hole-y goodness!"
+    title: "The interior is full of hole-y goodness!"
 ---
 
 ## INGREDIENTS
