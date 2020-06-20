@@ -10,6 +10,31 @@ header:
   teaser: /images/english-muffin-buns-150x150.jpg
   imagefeature: /images/english-muffin-buns-200x150.jpg
   fullimage: /images/english-muffin-buns-1077x810.jpg
+gallery:
+  - url: /images/english-muffin-buns2-1077x810.jpg
+    image_path: /images/english-muffin-buns2-320x240.jpg
+    alt: ""
+    title: ""
+  - url: /images/english-muffin-buns3-1077x810.jpg
+    image_path: /images/english-muffin-buns3-320x240.jpg
+    alt: ""
+    title: ""
+  - url: /images/english-muffin-buns4-1077x810.jpg
+    image_path: /images/english-muffin-buns4-320x240.jpg
+    alt: ""
+    title: ""
+  - url: /images/english-muffin-buns5-1077x810.jpg
+    image_path: /images/english-muffin-buns5-320x240.jpg
+    alt: ""
+    title: ""
+  - url: /images/english-muffin-buns6-1077x810.jpg
+    image_path: /images/english-muffin-buns6-320x240.jpg
+    alt: ""
+    title: ""
+  - url: /images/english-muffin-buns2-1077x810.jpg
+    image_path: /images/english-muffin-buns2-320x240.jpg
+    alt: ""
+    title: ""
 ---
 
 ## INGREDIENTS
