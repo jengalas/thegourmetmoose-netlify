@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - dessert
   - American
-excerpt: "This is based on a recipe for [Whole Grain Brownies](https://www.kingarthurflour.com/recipes/whole-grain-brownies-recipe) from King Arthur Flour. I halved the recipe and omitted espresso powder. I bake them in an 8"x8"x2" pan lined with Reynolds pan lining paper."
+excerpt: 'This is based on a recipe for [Whole Grain Brownies](https://www.kingarthurflour.com/recipes/whole-grain-brownies-recipe) from King Arthur Flour. I halved the recipe and omitted espresso powder. I bake them in an 8"x8"x2" pan lined with Reynolds pan lining paper.'
 header:
   teaser: /images/whole-grain-brownies-150x150.jpg
   imagefeature: /images/whole-grain-brownies-200x150.jpg
