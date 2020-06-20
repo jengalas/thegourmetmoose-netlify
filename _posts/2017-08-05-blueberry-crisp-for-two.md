@@ -12,25 +12,25 @@ header:
 gallery:
   - url: /images/crisp2-1077x810.jpg
     image_path: /images/crisp2-320x240.jpg
-    alt: ""
-    title: ""
+    alt: "Ramekins filled with fruit"
+    title: "Ramekins filled with fruit"
   - url: /images/crisp3-1077x810.jpg
     image_path: /images/crisp3-320x240.jpg
-    alt: ""
-    title: ""
+    alt: "Adding the topping"
+    title: "Adding the topping"
   - url: /images/crisp4-1077x810.jpg
     image_path: /images/crisp4-320x240.jpg
-    alt: ""
-    title: ""
+    alt: "Ready to go into the oven!"
+    title: "Ready to go into the oven!"
 gallery2:
   - url: /images/crisp5-1077x810.jpg
     image_path: /images/crisp5-320x240.jpg
-    alt: ""
-    title: ""
+    alt: "Digging into an apple crisp"
+    title: "Digging into an apple crisp"
   - url: /images/crisp-1077x810.jpg
     image_path: /images/crisp-320x240.jpg
-    alt: ""
-    title: ""
+    alt: "The original bluberry crisp"
+    title: "The original bluberry crisp"
 ---
 
 ## INGREDIENTS
