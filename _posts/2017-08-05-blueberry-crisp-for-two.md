@@ -7,8 +7,8 @@ tags:
 excerpt: "Fantastic with blueberries, plums, red raspberries, or peaches! (Or any combination thereof!)"
 header:
   teaser: /images/crisp-150x150.jpg
-  imagefeature:
-  fullimage:
+  imagefeature: /images/crisp-200x150.jpg
+  fullimage: /images/crisp-1077x810.jpg
 gallery:
   - url: /images/crisp2-1077x810.jpg
     image_path: /images/crisp2-320x240.jpg
