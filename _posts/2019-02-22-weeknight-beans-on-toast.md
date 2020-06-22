@@ -10,6 +10,8 @@ tags:
 excerpt: ""
 header:
   teaser: /images/weeknight-beans-on-toast-150x150.jpg
+  imagefeature: /images/weeknight-beans-on-toast-200x150.jpg
+  fullimage: /images/weeknight-beans-on-toast-1077x810.jpg
 ---
 
 ## INGREDIENTS
