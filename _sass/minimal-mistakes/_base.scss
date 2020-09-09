@@ -145,6 +145,10 @@ button:focus {
   @extend %tab-focus;
 }
 
+button.mfp-close:focus {
+  outline: none;
+}
+
 /* code */
 
 tt,
@@ -213,6 +217,7 @@ figure {
   align-items: flex-start;
   flex-wrap: wrap;
   margin: 2em 0;
+  margin-bottom: 0;
 
   img,
   iframe,
@@ -256,6 +261,10 @@ figure {
       width: 100%;
     }
   }
+}
+
+figure+figure {
+  margin-top: 0;
 }
 
 /* Figure captions */

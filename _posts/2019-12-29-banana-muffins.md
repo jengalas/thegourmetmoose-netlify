@@ -8,6 +8,8 @@ tags:
 excerpt: "From [Joy of Baking](https://joyofbaking.com/breakfast/BananaMuffins.html). I halved the recipe to make 6 muffins, and used a bit more than the amount of banana called for. I used larger-sized chopped walnuts, omitted the cinnamon and cut back the sugar to 60 grams (would be 120 grams for the full recipe). Mine took the full 25 minutes to bake."
 header:
   teaser: /images/banana-muffins-150x150.jpg
+  imagefeature: /images/banana-muffins-200x150.jpg
+  fullimage: /images/banana-muffins-1077x810.jpg
 ---
 
 ## INGREDIENTS

@@ -18,6 +18,14 @@ layout: default
   {% capture teaser %}{{ page.header.teaser }}{% endcapture %}
 {% endif %}
 
+{% if page.header.imagefeature %}
+  {% capture imagefeature %}{{ page.header.imagefeature }}{% endcapture %}
+{% endif %}
+
+{% if page.header.fullimage %}
+  {% capture fullimage %}{{ page.header.fullimage }}{% endcapture %}
+{% endif %}
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -46,8 +54,11 @@ layout: default
             </nav>
           </aside>
         {% endif %}
-       
-        {% if page.header.teaser %}
+               
+
+        {% if page.header.imagefeature %}
+          <a href="{{ fullimage }}" title="{{page.title}}"><img src="{{ imagefeature }}" title="{{page.title}}" class="align-right recipe-imagefeature" alt=""></a>
+        {% elsif page.header.teaser %}
           <img src="{{ teaser }}" class="align-right recipe-teaser" alt="">
         {% endif %}
 

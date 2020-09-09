@@ -8,6 +8,8 @@ tags:
 excerpt: "From [Joy of Baking](http://www.joyofbaking.com/barsandsquares/CocoaBrownies.html). These make tender, chewy/fudgy brownies. Dutch processed cocoa makes a very dark, almost black, brownie. These are excellent frosted with the mint frosting from Irish Mist Brownies (but I use only about ¾ of that recipe for one 8-inch x 8-inch pan of brownies). While it's important not to overbake brownies, ours took 30-31 minutes, just a bit longer than the recipe recommends."
 header:
   teaser: /images/cocoa-brownies-150x150.jpg
+  imagefeature: /images/cocoa-brownies-200x150.jpg
+  fullimage: /images/cocoa-brownies-1077x810.jpg 
 ---
 
 ## INGREDIENTS
