@@ -11,14 +11,14 @@ header:
   imagefeature: /images/moms-mac-and-cheese-200x150.jpg
   fullimage: /images/moms-mac-and-cheese-1077x810.jpg
 gallery:
-  - url: /images/moms-mac-and-cheese2-1077x810.jpg
-    image_path: /images/moms-mac-and-cheese2-320x240.jpg
-    alt: "Key lime pie"
-    title: "Key lime pie"
   - url: /images/moms-mac-and-cheese3-1077x810.jpg
     image_path: /images/moms-mac-and-cheese3-320x240.jpg
-    alt: "It's best served with whipped cream on top!"
-    title: "It's best served with whipped cream on top!"
+    alt: "Getting ready ..."
+    title: "Getting ready ..."
+  - url: /images/moms-mac-and-cheese2-1077x810.jpg
+    image_path: /images/moms-mac-and-cheese2-320x240.jpg
+    alt: "Fresh out of the oven"
+    title: "Fresh out of the oven"  
 ---
 
 ## INGREDIENTS
