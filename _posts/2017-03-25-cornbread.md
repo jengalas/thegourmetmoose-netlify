@@ -8,6 +8,8 @@ tags:
 excerpt: "Baked in a scone pan, these come out perfectly portioned and golden brown in 15 minutes."
 header:
   teaser: /images/jalapeno-cornbread-150x150.jpg
+  imagefeature: /images/cornbread-200x150.jpg
+  fullimage: /images/cornbread-1077x810.jpg
 ---
 
 ## INGREDIENTS
