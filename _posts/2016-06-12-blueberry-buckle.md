@@ -13,11 +13,11 @@ header:
   fullimage: /images/blueberry-buckle-810x810.jpg
 gallery:
   - url: /images/blueberry-buckle-810x810.jpg
-    image_path: /images/blueberry-buckle-240xx240.jpg
+    image_path: /images/blueberry-buckle-240x240.jpg
     alt: "Soft cake filled with blueberries"
     title: "Soft cake filled with blueberries"
   - url: /images/blueberry-buckle2-1077x810.jpg
-    image_path: /images/blueberry-buckle-320x240.jpg
+    image_path: /images/blueberry-buckle2-320x240.jpg
     alt: "Just out of the oven"
     title: "Just out of the oven"  
 ---
