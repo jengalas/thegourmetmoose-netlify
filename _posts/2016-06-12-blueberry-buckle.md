@@ -9,6 +9,8 @@ tags:
 excerpt: ""
 header:
   teaser: /images/blueberry-buckle-150x150.jpg
+  imagefeature: /images/blueberry-buckle-150x150.jpg
+  fullimage: /images/blueberry-buckle-810x810.jpg
 ---
 
 ## INGREDIENTS
