@@ -7,6 +7,21 @@ tags:
 excerpt: "This recipe is based on one from [King Arthur Flour](https://www.kingarthurflour.com/recipes/rosemary-potato-rolls-recipe). I have tried making this recipe in the King Arthur hamburger bun pan with excellent results. I make about two-thirds of the original recipe (quantities I use are given below). If fresh rosemary is sparse, it works to make a tea by steeping about ½ teaspoon of chopped rosemary in the water, then adding the rosemary along with ½ teaspoon of dried rosemary to the dry ingredients. Other spices work as well, such as Herbes de Provence."
 header:
   teaser: /images/rosemary-potato-rolls-150x150.jpg
+  imagefeature: /images/rosemary-potato-rolls-200x150.jpg
+  fullimage: /images/rosemary-potato-rolls-1077x810.jpg
+gallery:
+  - url: /images/rosemary-potato-rolls2-1077x810.jpg
+    image_path: /images/rosemary-potato-rolls2-320x240.jpg
+    alt: "Golden and shiny!"
+    title: "Golden and shiny!"
+  - url: /images/rosemary-potato-rolls3-1077x810.jpg
+    image_path: /images/rosemary-potato-rolls3-320x240.jpg
+    alt: "Just out of the oven"
+    title: "Just out of the oven"
+  - url: /images/rosemary-potato-rolls4-1077x810.jpg
+    image_path: /images/rosemary-potato-rolls4-320x240.jpg
+    alt: "These are perfect hamburger buns."
+    title: "These are perfect hamburger buns."
 ---
 
 ## INGREDIENTS
