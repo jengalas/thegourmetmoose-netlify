@@ -44,3 +44,6 @@ gallery:
 6. After the first rise, divide the dough into 6 portions (about 81-84g each), shape into rolls and place in the lightly buttered wells of the bun pan. 
 7. Let rise for 45 minutes (about 35 minutes in the oven with the light on, then remove and continue to rise for 10 minutes on the counter while the oven is heating). While the rolls are rising, preheat the oven to 375°F.
 8. Brush with light egg wash and bake for 14 minutes, until golden brown.
+
+{% include gallery caption="" %}
+
