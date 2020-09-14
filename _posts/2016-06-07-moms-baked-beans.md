@@ -7,6 +7,8 @@ tags:
 excerpt: ""
 header:
   teaser: /images/moms-baked-beans-150x150.jpg
+  imagefeature: /images/moms-baked-beans-2-200x150.jpg
+  fullimage: /images/moms-baked-beans-2-1077x810.jpg
 ---
 
 ## INGREDIENTS
