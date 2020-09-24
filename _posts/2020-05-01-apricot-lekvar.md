@@ -2,7 +2,6 @@
 title: "Apricot Lekvar"
 categories: moosefood
 tags: 
-  - bread
   - breakfast
   - dessert
 excerpt: ""
