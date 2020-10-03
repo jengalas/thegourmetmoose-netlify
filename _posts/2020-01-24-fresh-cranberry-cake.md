@@ -19,5 +19,8 @@ header:
 * 12 ounces fresh cranberries
 
 ## INSTRUCTIONS
-1. Preheat oven to 350°F. With a mixer, beat the eggs with the sugar until slightly thickened and light in color, about 5-7 minutes. The mixture should almost double in size. The eggs work as your leavening agent in this recipe, so do not skip this step. This mixture should form a ribbon when you lift the beaters out of the bowl. Add the butter and vanilla; mix two more minutes. Stir in the flour until just combined. Add the cranberries and stir to mix throughout.
-2. Spread in a buttered 9x13 pan. Bake for around 40 minutes, or until very lightly browned and a toothpick inserted near the center of the cake comes out clean.Let cool completely before cutting into small slices.
+1. Preheat oven to 350°F. With a mixer, beat the eggs with the sugar until slightly thickened and light in color, about 5-7 minutes. The mixture should almost double in size. The eggs work as your leavening agent in this recipe, so do not skip this step. This mixture should form a ribbon when you lift the beaters out of the bowl.
+2. Add the butter and vanilla; mix two more minutes.
+3. Stir in the flour until just combined.
+4. Add the cranberries and stir to mix throughout.
+5. Spread in a buttered 9x13-inch pan. Bake for around 40 minutes, or until very lightly browned and a toothpick inserted near the center of the cake comes out clean. Let cool completely before cutting into small slices.
