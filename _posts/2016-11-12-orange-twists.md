@@ -36,3 +36,5 @@ gallery:
 4. Twist each strip twice; place on greased cookie sheets.
 5. Cover; let rise in warm place until light and doubled in size, 45 to 60 minutes. Brush with beaten egg.
 6. Bake at 375°F for 15-18 minutes, or until golden brown.
+
+{% include gallery caption="" %}
