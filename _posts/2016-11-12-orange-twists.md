@@ -18,7 +18,11 @@ gallery:
   - url: /images/orange-twists3-810x810.jpg
     image_path: /images/orange-twists3-240x240.jpg
     alt: "Walnut-filled version"
-    title: "Walnut-filled version"  
+    title: "Walnut-filled version" 
+  - url: /images/orange-twists-810x810.jpg
+    image_path: /images/orange-twists-240x240.jpg
+    alt: "Orange version"
+    title: "Orange version"  
 ---
 
 ## INGREDIENTS
