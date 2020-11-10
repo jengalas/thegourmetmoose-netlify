@@ -9,6 +9,8 @@ tags:
 excerpt: ""
 header:
   teaser: /images/white-turkey-chili-150x150.jpg
+  imagefeature: /images/white-turkey-chili-200x150.jpg
+  fullimage: /images/white-turkey-chili-1077x810.jpg  
 ---
 
 ## INGREDIENTS

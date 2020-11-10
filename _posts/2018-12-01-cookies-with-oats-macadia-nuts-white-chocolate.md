@@ -8,6 +8,17 @@ tags:
 excerpt: "Rich has been asking for some slightly soft & chewy, slightly oaty cookies with macadamia nuts and white chocolate chips. We purchased some chopped macadamia nuts and organic white chocolate chunks from Nuts.com, and then I started looking for a recipe. This recipe is based on the [Oatmeal Cookie](https://www.joyofbaking.com/OatmealCookies.html) recipe at JoyofBaking.com. I halved the original recipe, added a little less oats and a little more flour, and skipped the cinnamon and dried fruit. I used seagrape honey, but that's very hard to find outside of Florida—any dark, caramelly honey should work well. These were a hit!"
 header:
   teaser: /images/oat-cookies-nuts-150x150.jpg
+  imagefeature: /images/oat-cookies-nuts-200x150.jpg
+  fullimage: /images/oat-cookies-nuts-1077x810.jpg
+gallery:
+  - url: /images/oat-cookies-nuts2-1394x810.jpg
+    image_path: /images/oat-cookies-nuts2-320x240.jpg
+    alt: "Cooling cookies"
+    title: "Cooling cookies"
+  - url: /images/oat-cookies-nuts3-1077x810.jpg
+    image_path: /images/oat-cookies-nuts3-320x240.jpg
+    alt: "These work well with dried blueberries too!"
+    title: "These work well with dried blueberries too!" 
 ---
 
 ## INGREDIENTS
@@ -33,3 +44,5 @@ header:
 6. For large cookies, use 1/8 cup (28 grams) of batter (I like to use a #30 cookie scoop to form the cookies) and space the cookies about 3 inches apart on the baking sheet. Then lightly wet your hand and flatten the cookies slightly with your fingers. 
 7. Bake the cookies for about 12 minutes or until golden brown around the edges but still soft and look a little wet in the center. 
 8. Remove from oven and place the baking sheet on a wire rack. Let the cookies cool a few minutes on the baking sheet so they firm up, before transferring them to a wire rack to finish cooling.
+
+{% include gallery caption="" %}

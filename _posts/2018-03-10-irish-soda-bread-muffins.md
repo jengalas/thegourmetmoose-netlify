@@ -11,7 +11,20 @@ excerpt: "Based on a recipe from King Arthur Flour: [Irish Soda Bread Muffins](h
 header:
   teaser: /images/irish-soda-bread-muffins-150x150.jpg
   imagefeature: /images/irish-soda-bread-muffins-200x150.jpg
-  fullimage: /images/irish-soda-bread-muffins-1077x810.jpg 
+  fullimage: /images/irish-soda-bread-muffins-1077x810.jpg
+gallery:
+  - url: /images/irish-soda-bread-muffins2-1077x810.jpg
+    image_path: /images/irish-soda-bread-muffins2-320x240.jpg
+    alt: "These muffins are good with currants, or without."
+    title: "These muffins are good with currants, or without."
+  - url: /images/irish-soda-bread-muffins3-1077x810.jpg
+    image_path: /images/irish-soda-bread-muffins3-320x240.jpg
+    alt: "We've even tried them with blueberries."
+    title: "We've even tried them with blueberries." 
+  - url: /images/irish-soda-bread-muffins4-1077x810.jpg
+    image_path: /images/irish-soda-bread-muffins4-320x240.jpg
+    alt: "Warmed, with butter, they're irresistible!"
+    title: "Warmed, with butter, they're irresistible!" 
 ---
 
 ## INGREDIENTS
@@ -35,3 +48,5 @@ header:
 4. Quickly and gently combine the dry and wet ingredients; stop once everything is evenly moistened.
 5. Spoon batter into prepared pan. Cups will be nearly full and the stiff batter will look mounded in the cups.
 6. Bake for 18-20 minutes, until a cake tester inserted into the center of a muffin comes out clean. Remove from oven and tip the muffins in their pan so the bottoms don't get soggy. After 5 minutes, remove muffins to cooling rack. Serve plain or with butter and/or jam.
+
+{% include gallery caption="" %}

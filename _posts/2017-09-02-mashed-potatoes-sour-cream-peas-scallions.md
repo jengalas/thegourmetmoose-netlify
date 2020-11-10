@@ -7,6 +7,8 @@ tags:
 excerpt: ""
 header:
   teaser: /images/mashed-potatoes-150x150.jpg
+  imagefeature: /images/mashed-potatoes-200x150.jpg
+  fullimage: /images/mashed-potatoes-1077x810.jpg    
 ---
 
 ## INGREDIENTS

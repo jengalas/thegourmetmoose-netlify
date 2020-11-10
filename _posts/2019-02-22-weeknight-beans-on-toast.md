@@ -12,6 +12,15 @@ header:
   teaser: /images/weeknight-beans-on-toast-150x150.jpg
   imagefeature: /images/weeknight-beans-on-toast-200x150.jpg
   fullimage: /images/weeknight-beans-on-toast-1077x810.jpg
+gallery:
+  - url: /images/weeknight-beans-on-toast-1077x810.jpg
+    image_path: /images/weeknight-beans-on-toast-320x240.jpg
+    alt: "Weeknight Beans on Toast"
+    title: "Weeknight Beans on Toast"
+  - url: /images/weeknight-beans-on-toast2-1077x810.jpg
+    image_path: /images/weeknight-beans-on-toast2-320x240.jpg
+    alt: "Excellent on ciabatta rolls"
+    title: "Excellent on ciabatta rolls" 
 ---
 
 ## INGREDIENTS
@@ -42,3 +51,5 @@ header:
 6. Mix in spinach and cook until wilted, about 2 minutes. (An 8-oz. package is OK if you prefer a bit more spinach.)
 7. Add beans and cook until heated through, about 3 minutes.
 8. Split the sub rolls or bread lengthwise, toast under broiler or in toaster oven, and butter lightly.  Ladle a generous portion of ragù over rolls and top with grated cheese and parsley.
+
+{% include gallery caption="" %}
