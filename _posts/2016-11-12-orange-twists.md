@@ -10,19 +10,7 @@ header:
   teaser: /images/orange-twists-150x150.jpg
   imagefeature: /images/orange-twists-150x150.jpg
   fullimage: /images/orange-twists-810x810.jpg
-gallery:
-  - url: /images/orange-twists2-1077x810.jpg
-    image_path: /images/orange-twists2-320x240.jpg
-    alt: "Prune-filled version"
-    title: "Prune-filled version"
-  - url: /images/orange-twists3-810x810.jpg
-    image_path: /images/orange-twists3-240x240.jpg
-    alt: "Walnut-filled version"
-    title: "Walnut-filled version" 
-  - url: /images/orange-twists-810x810.jpg
-    image_path: /images/orange-twists-240x240.jpg
-    alt: "Orange version"
-    title: "Orange version"  
+
 ---
 
 ## INGREDIENTS

@@ -7,6 +7,8 @@ tags:
 excerpt: ""
 header:
   teaser: /images/baked-potato-soup-150x150.jpg
+  imagefeature: /images/baked-potato-soup-200x150.jpg
+  fullimage: /images/baked-potato-soup-1077x810.jpg
 ---
 
 ## INGREDIENTS

@@ -7,6 +7,8 @@ tags:
 excerpt: ""
 header:
   teaser: /images/white-bean-pasta-soup-150x150.jpg
+  imagefeature: /images/white-bean-pasta-soup-200x150.jpg
+  fullimage: /images/white-bean-pasta-soup-1077x810.jpg    
 ---
 
 ## INGREDIENTS

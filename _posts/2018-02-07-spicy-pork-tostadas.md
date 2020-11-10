@@ -7,6 +7,8 @@ tags:
 excerpt: ""
 header:
   teaser: /images/pork-tostadas-150x150.jpg
+  imagefeature: /images/pork-tostadas-200x150.jpg
+  fullimage: /images/pork-tostadas-1077x810.jpg  
 ---
 
 ## INGREDIENTS

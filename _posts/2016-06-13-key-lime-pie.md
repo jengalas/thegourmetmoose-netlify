@@ -10,10 +10,10 @@ header:
   imagefeature: /images/mooses-key-lime-pie-200x150.jpg
   fullimage: /images/mooses-key-lime-pie-1077x810.jpg
 gallery:
-  - url: /images/mooses-key-lime-pie-1077x810.jpg
-    image_path: /images/mooses-key-lime-pie-320x240.jpg
-    alt: "Key lime pie"
-    title: "Key lime pie"
+  - url: /images/mooses-key-lime-pie3-1077x810.jpg
+    image_path: /images/mooses-key-lime-pie3-320x240.jpg
+    alt: "It also works with lemon juice and zest! We prefer Meyer lemons."
+    title: "It also works with lemon juice and zest! We prefer Meyer lemons."
   - url: /images/mooses-key-lime-pie2-1077x810.jpg
     image_path: /images/mooses-key-lime-pie2-320x240.jpg
     alt: "It's best served with whipped cream on top!"
