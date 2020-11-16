@@ -1,13 +1,24 @@
 ---
 title: "Cranberry Orange Buns"
-categories: recipes-to-try
+categories: moosefood
 tags: 
   - dessert
   - breakfast
   - American
 excerpt: ""
 header:
-  teaser:
+  teaser: /images/cranberry-orange-buns-150x150.jpg
+  imagefeature: /images/cranberry-orange-buns-200x150.jpg
+  fullimage: /images/cranberry-orange-buns-1077x810.jpg
+gallery:  
+  - url: /images/cranberry-orange-buns2-1077x810.jpg
+    image_path: /images/cranberry-orange-buns2-320x240.jpg
+    alt: "Ready to go into the oven"
+    title: "Ready to go into the oven"
+  - url: /images/cranberry-orange-buns-1077x810.jpg
+    image_path: /images/cranberry-orange-buns-320x240.jpg
+    alt: "Sweet, tart, and flavorful rolls!"
+    title: "Sweet, tart, and flavorful rolls!"
 ---
 
 ## INGREDIENTS
@@ -59,3 +70,5 @@ header:
 ### To make the icing:
 1. Combine the sugar, Fiori, and enough orange juice to make a spreadable icing.
 2. Let the buns cool for 10 minutes, then spread with the icing and serve.
+
+{% include gallery caption="" %}

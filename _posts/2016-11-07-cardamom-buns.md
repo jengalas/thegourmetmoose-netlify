@@ -8,7 +8,17 @@ tags:
 excerpt: ""
 header:
   teaser: /images/cardamom-buns-150x150.jpg
-  thumb:
+  imagefeature: /images/cardamom-buns-200x150.jpg
+  fullimage: /images/cardamom-buns-1077x810.jpg
+gallery:  
+  - url: /images/cardamom-buns2-1077x810.jpg
+    image_path: /images/cardamom-buns2-320x240.jpg
+    alt: "Risen dough ready to go into the oven"
+    title: "Risen dough ready to go into the oven"
+  - url: /images/cardamom-buns-1077x810.jpg
+    image_path: /images/cardamom-buns-320x240.jpg
+    alt: "Delicious sweet rolls with nuts and pearl sugar"
+    title: "Delicious sweet rolls with nuts and pearl sugar"
 ---
 
 ## INGREDIENTS
@@ -44,3 +54,5 @@ header:
 8. Please the buns in bun cups (I use Reynolds silver foil cups) on baking trays and allow to rest for another 30 minutes. Preheat oven to 400° F.
 9. Use a pastry brush to lightly coat the buns with the beaten egg. Sprinkle each bun with cardamom and pearl sugar. 
 10. Bake at 400°F for about 12 minutes or until golden.
+
+{% include gallery caption="" %}
