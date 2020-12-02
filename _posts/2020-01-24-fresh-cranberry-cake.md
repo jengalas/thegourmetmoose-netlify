@@ -7,7 +7,9 @@ tags:
   - dessert
 excerpt: "From [Barefeet in the Kitchen](https://barefeetinthekitchen.com/cranberry-christmas-cake/). I halved the recipe (using 2 eggs), used a bit less sugar, and baked in an 8x8-inch pan for 34 minutes."
 header:
-  teaser: 
+  teaser: /images/fresh-cranberry-cake-150x150.jpg
+  imagefeature: /images/fresh-cranberry-cake-200x150.jpg
+  fullimage: /images/fresh-cranberry-cake-1077x810.jpg
 ---
 
 ## INGREDIENTS
