@@ -5,7 +5,7 @@ tags:
   - dessert
   - breakfast
   - American
-excerpt: ""
+excerpt: "This recipe is based on the [Cranberry Orange Bread](https://www.joyofbaking.com/breakfast/CranberryOrangeBread.html) recipe at JoyOfBaking.com. It's semi-moist, tart and slightly sweet, and easy to make (but I recommend getting as many ingredients ready ahead of time as possible). And be careful chopping the cranberries!"
 header:
   teaser: /images/cranberry-orange-bread-150x150.jpg
   imagefeature: /images/cranberry-orange-bread-200x150.jpg
