@@ -35,3 +35,4 @@ gallery:
 4. Place each half in a bowl or container, cover, and let rise at room temperature for 1-2 hours. Eefrigerate until ready to make pizza.
 5. When ready to bake, preheat oven with pizza stone to 450°F. Remove one of the dough balls and place on floured parchment. Roll out to 13"-14" circle, resting as needed for the dough to cooperate. Top and slide onto pizza stone; bake for 10-12 minutes.
 
+{% include gallery caption="" %}
