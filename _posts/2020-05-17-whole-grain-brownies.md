@@ -29,4 +29,4 @@ header:
 4. Transfer to bowl, stir in cocoa, baking powder, and vanilla.
 5. Add eggs, stirring until smooth.
 6. Add flour and nuts, stirring until smooth.
-7. Spoon batter into prepared 8"x8"x2" pan and bake for 25-30 minutes (mine were perfect at 26 minutes). Remove from oven and cool completely on a rack.
+7. Spoon batter into prepared 8"x8"x2" pan and bake for 25-30 minutes (mine were perfect at 26 minutes one time, 29 minutes the next). Remove from oven and cool completely on a rack.
