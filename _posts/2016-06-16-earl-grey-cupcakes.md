@@ -4,7 +4,7 @@ categories: moosefood
 tags: 
   - dessert
   - American
-excerpt: ""
+excerpt: "Adding the pulverized tea leaves to the batter is often done, but another method to steep the tea leaves in the milk and then strain (or use a tea bag)—I prefer this method.  This recipe makes 12 cupcakes."
 header:
   teaser:
 ---
