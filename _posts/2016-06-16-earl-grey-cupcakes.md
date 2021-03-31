@@ -15,7 +15,7 @@ header:
 * 2 eggs
 * 1½ cups all-purpose flour
 * ¾ teaspoon salt
-* ¾ tablespoon baking powder
+* ¾ teaspoon baking powder
 * ½ cup milk
 * 1 tablespoon Earl Grey tea *pulverized*
 
