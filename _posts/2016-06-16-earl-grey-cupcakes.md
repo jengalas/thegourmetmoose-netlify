@@ -13,7 +13,7 @@ header:
 * ½ cup butter
 * 1 cup sugar
 * 2 eggs
-* 1½ cups all-purpose flour
+* 1½ cups all-purpose or cake flour
 * ¾ teaspoon salt
 * ¾ teaspoon baking powder
 * ½ cup milk
@@ -24,5 +24,5 @@ header:
 2. Mix the flour, salt, and baking powder together.
 3. Add the eggs one at a time, beating each egg very well so that it is thoroughly combined before adding the next egg.
 4. Beat in half of the flour mixture along with the tea. Then add the milk and the remaining flour mixture, stirring until just combined.
-5. Fill the cupcake pans ⅔ full. Bake 20-25 minutes, rotating the pans halfway through to ensure even baking. Cool thoroughly before frosting.
+5. Fill the cupcake pans ⅔ full. Bake at 350°F 20-25 minutes (mine are done right around 22 minutes), rotating the pans halfway through to ensure even baking. Cool thoroughly before frosting.
 6. Frost with [Fluffy Orange Honey Frosting](/fluffy-orange-honey-frosting). (Or try a lemon buttercream or lavender.)
