@@ -5,7 +5,7 @@ tags:
   - dessert
   - American
   - picnic
-excerpt: "From joyofbaking.com. These cookies are so soft and chewy and taste just like a brownie. They stay fresh for days, too. Makes about 24 cookies."
+excerpt: "From joyofbaking.com. These cookies are so soft and chewy and taste just like a brownie. They stay fresh for days, too. Makes about 24 cookies. These also work very well for homemade ice cream sandwiches. Use the same amount of dough for each cookies, but pat it down with wet hands to form a flat cookie about 1/8-inch thick. Bake for 9 minutes, and let cool completely on sheet before trying to remove. Freeze and add ice cream when serving."
 header:
   teaser: /images/brownie-cookies-150x150.jpg
   imagefeature: /images/brownie-cookies-200x150.jpg
