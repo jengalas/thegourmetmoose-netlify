@@ -108,6 +108,7 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
+    wdm (0.1.1)
     zeitwerk (2.4.1)
 
 PLATFORMS
@@ -121,6 +122,8 @@ DEPENDENCIES
   kramdown (>= 2.3.1)
   kramdown-parser-gfm
   minimal-mistakes-jekyll
+  nokogiri (>= 1.11.4)
+  wdm (>= 0.1.0)
 
 BUNDLED WITH
    1.17.2
